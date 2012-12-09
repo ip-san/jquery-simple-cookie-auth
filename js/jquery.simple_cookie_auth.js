@@ -17,7 +17,7 @@
             /* 右クリック防止：有効無効 */
             contextmenu_block:true,
             /* クッキーに利用するキー */
-            cookie_key:'simpblokle_cookie_auth',
+            cookie_key:'simple_cookie_auth',
             /* エラーメッセージ出力場所のID */
             error_msg_id:'error',
             /* エラーメッセージ */
